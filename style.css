@@ -1,0 +1,12 @@
+body {
+    background-color: #faebd7;
+}
+hr {
+    border-style: dotted none none;
+    border-color: brown;
+    width: 5%;
+    height: 50%;
+}
+h1 {
+    color: darkmagenta;
+}
